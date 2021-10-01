@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=cyan">
+  <img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java&logoColor=cyan">
 </div>
 
 ### Hi 🌹
@@ -13,8 +14,8 @@
 def main():
     aboutMe = {
         'twitter': '@0xrohadi',
-        'country': 'Yogyakarta, Indonesia',
-        'studying': True
+        'city': 'Sleman, Yogyakarta, Indonesia',
+        'studying': False
     }
     
     for k, v in aboutMe.items():
